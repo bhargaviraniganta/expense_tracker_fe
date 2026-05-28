@@ -228,4 +228,4 @@ Frontend deployed using Streamlit Cloud.
 
 # Author
 
-Bhargavi
+Bhargavi Rani Ganta
